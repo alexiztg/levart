@@ -3,6 +3,7 @@
 require("dotenv").config();
 
 //efsd
+//gfkljgldfjgkljdflkgjkdflgkldfjg
 
 // ℹ️ Connects to the database
 require("./db");
